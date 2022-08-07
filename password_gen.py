@@ -41,10 +41,7 @@ store_used_password(new_password)
 
 
 
-'''file = open("used_passwords.txt", "w")
-file.write(password)
-file.close()
-f.write(str(i) + '\n')'''
+
     
     
     
